@@ -1,6 +1,6 @@
-package iaroslav.eremeev.program.util;
+package iaroslav.eremeev.util;
 
-import iaroslav.eremeev.program.model.List;
+import iaroslav.eremeev.model.List;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

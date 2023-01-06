@@ -1,4 +1,4 @@
-package iaroslav.eremeev.program.model;
+package iaroslav.eremeev.model;
 
 import java.lang.reflect.Array;
 import java.util.Map;
