@@ -98,7 +98,7 @@ public class Util {
         else {
             try {
                 System.out.println("Are you sure to exit? Type YES or NO");
-                String yesNoInput = scanner.next();
+                String yesNoInput = scanner.nextLine();
                 if (yesNoInput.equals("NO")) runProgram();
                 else if (!yesNoInput.equals("YES")) throw new InputMismatchException();
             }
